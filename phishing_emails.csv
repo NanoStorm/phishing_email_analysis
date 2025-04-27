@@ -1,8 +1,0 @@
-Email_ID,Subject,Sender,Category
-1,"Update your account info","banksecurity@fakebank.com","Phishing"
-2,"Important notice about your PayPal account","security@paypal.com","Phishing"
-3,"Congratulations! You've won a prize","promotions@fakeprize.com","Phishing"
-4,"Reset your password immediately","alert@fakeservice.com","Phishing"
-5,"Suspicious login attempt detected","no-reply@securityalert.com","Phishing"
-6,"Invoice for your recent purchase","billing@fakecompany.com","Phishing"
-7,"Urgent: Confirm your identity","support@fakeidcheck.com","Phishing"
