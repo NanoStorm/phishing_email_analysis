@@ -26,7 +26,7 @@ I created a phishing dataset manually to simulate cybersecurity data. Using Pand
 2. Install the required libraries:
    ```bash
    pip install pandas matplotlib
-3. Open the '.ipynd' file in Jupyter Notebook or VS Code.
+3. Open the '.ipynb' file in Jupyter Notebook or VS Code.
 4. Run each cell step-by-step.
 
 ---
@@ -55,7 +55,7 @@ data = pd.read_csv('phishing_dataset.csv')
 ```
 
 - This line reads the CSV file and loads it into a DataFrame called data, which acts like a table in memory.
-- We then preview the first few rows using .head() to make sure it loaded correctly.
+- We then preview the first few rows using .head() to ensure it loaded correctly.
 
 ### 2. Explore the Dataset 🗺️
 Several steps are taken to understand the data
