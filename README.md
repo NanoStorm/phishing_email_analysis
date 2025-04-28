@@ -22,11 +22,19 @@ I created a phishing dataset manually to simulate cybersecurity data. Using Pand
 ---
 
 ## 🛠️ How to Run This Project
+   ### Requirements 📋
+   - Python 3.x
+   - pandas
+   - matplotlib
+   
 1. Make sure you have Python installed.
 2. Install the required libraries:
    ```bash
    pip install pandas matplotlib
 3. Open the '.ipynb' file in Jupyter Notebook or VS Code.
+
+- View the project notebook [here](./CYB333.ipynb). 
+
 4. Run each cell step-by-step.
 
 ---
